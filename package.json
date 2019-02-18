@@ -16,7 +16,7 @@
     "xyz": "3.0.x"
   },
   "peerDependencies": {
-    "eslint": "5.1.x"
+    "eslint": "^5.14.0"
   },
   "files": [
     "/LICENSE",
